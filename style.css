@@ -1,0 +1,51 @@
+
+body {
+    background-color:#333;
+    font-family: 'Poppins', sans-serif;
+}
+hr {
+    height: 0;  
+    border: none;
+    border-bottom: 2px dotted #fff;
+}
+
+
+h1,h3{
+    color: #fff;
+}
+
+img:hover {
+    background-color:white;
+}
+
+p {
+    color: #fff;
+}
+
+li {
+    color: #fff;
+}
+th{
+    color: #fff;
+}
+
+td {
+    color: #fff;
+}
+
+a{
+    color:#fff;
+    text-decoration: none;
+}
+
+/* .h-bar {
+        background-color: yellow;
+    } */
+
+#emoji {
+    background-color: transparent;
+}
+
+#emoji:hover {
+    background-color: white;
+}
