@@ -38,9 +38,9 @@ a{
     text-decoration: none;
 }
 
-/* .h-bar {
-        background-color: yellow;
-    } */
+a {
+    color:darkcyan;
+}
 
 #emoji {
     background-color: transparent;
